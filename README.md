@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+🔭 I am studying a frontend-development course at Practicum by Yandex
+
+👯 I am looking for a job as a Frontend developer
+
+📫 How to reach me:
+eshmanenko@gmail.com
+Telegram:
+https://t.me/malinovskaya_e
+
+
+💻 My skill set:
+HTML,
+CSS,
+SCSS,
+Кроссбраузерная версткаб
+JavaScript,
+Webpack,
+API,
+React,
+TypeScript,
+Git,
+Node.js,
+
 <!--
 **evgeniyamalinovskaya/evgeniyamalinovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
